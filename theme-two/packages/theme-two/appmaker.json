@@ -1,0 +1,10 @@
+{
+    "type": "theme",
+    "id": "clhinmxrb00722c0jurb7mjso",
+    "handle": "theme-two",
+    "name": "theme_two",
+    "package": {
+        "id": "clhinmy2d00742c0jv0if1d64",
+        "name": "@appmaker-packages/theme-theme-two"
+    }
+}

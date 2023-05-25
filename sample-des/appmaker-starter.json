@@ -1,0 +1,6 @@
+{
+    "packages": {
+        "@appmaker-packages/theme-sample-des": "packages\\sample-des"
+    },
+    "defaultPackage": "@appmaker-packages/theme-sample-des"
+}

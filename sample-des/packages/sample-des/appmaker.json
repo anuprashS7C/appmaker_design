@@ -1,0 +1,10 @@
+{
+    "type": "theme",
+    "id": "cli1e053h00527d0icv3gcte8",
+    "handle": "sample-des",
+    "name": "sample_des",
+    "package": {
+        "id": "cli1e05ey00547d0iit151o95",
+        "name": "@appmaker-packages/theme-sample-des"
+    }
+}

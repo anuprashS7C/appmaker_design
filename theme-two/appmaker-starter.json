@@ -1,0 +1,6 @@
+{
+    "packages": {
+        "@appmaker-packages/theme-theme-two": "packages\\theme-two"
+    },
+    "defaultPackage": "@appmaker-packages/theme-theme-two"
+}
