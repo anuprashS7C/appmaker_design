@@ -20,21 +20,18 @@ const blocks = [
     View: CustomWish,
   },
   {
-    name:'appmaker/customDescription',
-    View: ProductDesc,
-  },
-  {
     name:'shopify/cart-summary-table',
     View: CustomCart,
   },
   {
-    name:'appmaker/customProImage',
+    name: 'appmaker/customProImage',
     View: PrdImage,
   },
-  // {
-  //   name:'appmaker/productTitle',
-  //   View: ProductData,
-  // }
+  {
+    name : 'appmaker/customProData',
+    View: ProductData,
+  }
+  
 ];
 
 export { blocks };

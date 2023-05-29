@@ -11,20 +11,6 @@ export default function ProductData(props) {
     <View style={styles.container}> 
       <View>
         <Text style={styles.titleText}>{title}</Text>
-
-        {/* <Text>{Tags}</Text> */}
-      </View>
-
-      <View style={styles.reviewsSection}>
-        <View style={styles.stars}>
-          <Text>⭐⭐⭐⭐⭐</Text>
-        </View>
-        <View style={styles.ratingPro}>
-          <Text>4.9</Text>
-        </View>
-        <View style={styles.noOfRev}>
-          <Text>3433 Reviews</Text>
-        </View>
       </View>
 
       <View style={styles.priceSection}>

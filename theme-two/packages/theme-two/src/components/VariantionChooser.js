@@ -38,7 +38,7 @@ export default function VariationChooser(props) {
           />
         );
       default:
-        // For any other variation option, we are rendering the default ProductVariationSelect component.
+        
         return <ProductVariationSelect {...props} />;
     }
   };
