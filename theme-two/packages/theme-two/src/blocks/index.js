@@ -30,6 +30,14 @@ const blocks = [
   {
     name : 'appmaker/customProData',
     View: ProductData,
+  },
+  {
+    name: 'appmaker/customVariant',
+    View: ProductVariant,
+  },
+  {
+    name: 'appmaker/customPrdDesc',
+    View: ProductDesc,
   }
   
 ];

@@ -20,7 +20,7 @@ export default function PrdImage(props) {
     swiperRef,
     openImage
   } = useProductImages(props);
-  console.log('imageList: ',imageList);
+  // console.log('imageList: ',imageList);
   const firstImage = imageList[0]; // Access the first object in the array
 
   return (

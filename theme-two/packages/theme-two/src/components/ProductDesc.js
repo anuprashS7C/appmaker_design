@@ -8,13 +8,26 @@ export default function ProductDesc(props) {
   
   return (
     <View style={styles.descStyle}>
-      <Text>{description}</Text>
+      <View>
+        <Text>What it is</Text>
+      </View>
+
+      <View>
+        <Text>{description}</Text>
+      </View>
     </View>
   )
 }
 
 const styles = StyleSheet.create({
   descStyle:{
-    margin:8
+    margin:10,
+    // flex:1,
+    // justifyContent: 'center',
+    // alignItems:'center',
+  },
+  abtText: {
+    fontSize:17,
+    fontWeight: '400',
   }
 })

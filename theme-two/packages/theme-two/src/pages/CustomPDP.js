@@ -9,6 +9,18 @@ const CustomPDP = {
         {
             name:'appmaker/customProData',
             attributes:{},
+        },
+        {
+            name: 'appmaker/customVariant',
+            attributes:{},
+        },
+        {
+            name: 'appmaker/shopify-related-product-scroller',
+            attributes:{},
+        },
+        {
+            name: 'appmaker/customPrdDesc',
+            attributes:{},
         }
     ],
 } 
